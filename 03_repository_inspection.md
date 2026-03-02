@@ -1,4 +1,4 @@
-# Git Repository Status & Inspection Commands (Beginner Friendly)
+# Git Repository Status & Inspection Commands
 
 ---
 
