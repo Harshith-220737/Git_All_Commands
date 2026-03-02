@@ -1,4 +1,4 @@
-# Git Repository Setup Commands (Beginner Friendly)
+# Git Repository Setup Commands
 
 ---
 

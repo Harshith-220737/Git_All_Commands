@@ -1,4 +1,4 @@
-# Git Configuration Commands (Beginner Friendly)
+# Git Configuration Commands
 
 ---
 
